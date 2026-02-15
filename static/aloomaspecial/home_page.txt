@@ -1,0 +1,47 @@
+<br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;"> Can I rent a dumpster just for a one-day event?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, our temporary dumpsters are perfect for single-day or weekend events.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What size dumpster should I choose for an event?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Small events may need 5–10 yd dumpsters, while larger festivals or cleanups might require 20–30 yd roll off dumpsters. We can help select the right size.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can dumpsters be delivered to parks or public areas?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we advise on placement and any local permits needed for street or park locations.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How quickly can a temporary dumpster be delivered?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Same-day or next-day delivery is available for urgent event or project needs</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I rent multiple dumpsters for a large event?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. We can coordinate multiple dumpsters for large festivals, community cleanups, or corporate events efficiently.</p>
+                <div class="callalooma mx-auto"><a href="tel:850332-9639">Click Here To Call Us (850) 332-9639</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
